@@ -3,9 +3,9 @@
 发布日期：2025年4月10日
 
 ## 1.项目来源说明
-大疆创新 DJI Cloud API Demo <br>地址：https://github.com/dji-sdk/Cloud-API-Demo-Web、https://github.com/dji-sdk/DJI-Cloud-API-Demo 的示例项目。<br>
+大疆创新 DJI Cloud API Demo <br>地址：https://github.com/dji-sdk/Cloud-API-Demo-Web 、 https://github.com/dji-sdk/DJI-Cloud-API-Demo 的示例项目。<br>
 该项目作为官方提供的云端集成参考实现，旨在辅助开发者理解API调用逻辑。并非生产级解决方案，可能存在未修复的安全隐患（如数据泄露、未授权访问等）。<br>
-请避免在生产环境中直接使用Demo中的代码，若直接使用官方强烈建议您启动安全自查，或避免将基于该Demo的服务暴露于公网环境。
+请避免在生产环境中直接使用Demo中的代码，若直接使用。<br>官方强烈建议您启动安全自查，或避免将基于该Demo的服务暴露于公网环境。
 <br>
 ## 2.项目修改内容
 ### （1）临时绕过登录验证，便于直接查看
